@@ -6,10 +6,6 @@ In this simple example, we integrate Apollo seamlessly with [Next.js data fetchi
 
 This example relies on [Prisma + Nexus](https://github.com/prisma-labs/nextjs-graphql-api-examples) for its GraphQL backend.
 
-## Demo
-
-[https://next-with-apollo.now.sh](https://next-with-apollo.now.sh)
-
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com):
